@@ -16,3 +16,7 @@ function countLettersInName() {
     var outputElement = document.getElementById('output');
     outputElement.textContent = "Your name has " + letterCount + " letters.";
   }
+
+  function checkNameCoolness() {
+    alert("I guess so.");
+}
